@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/zfVgzvP/Rectangle-4287-1.png",
+      "title": "Education for Underprivileged Children",
+      "category": "Education",
+      "category_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_color": "#0052FF",
+      "description": "Support our campaign to provide quality education to underprivileged children and give them a chance for a brighter future.",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/g7PML9R/Rectangle-4287.png",
+      "title": "Clean Water for All",
+      "category": "Environment",
+      "category_color": "#FF444A",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "text_button_color": "#FF444A",
+      "description": "Help us in providing access to clean and safe drinking water to communities in need, promoting a healthier environment.",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/vzmm9yB/Rectangle-4284.png",
+      "title": "Medical Aid for Vulnerable Populations",
+      "category": "Health",
+      "category_color": "#79C23F",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_button_color": "#79C23F",
+      "description": "Contribute to our campaign to provide essential medical supplies and healthcare services to vulnerable populations and save lives.",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/vxvTdnc/Rectangle-4287-2.png",
+      "title": "Hunger Relief for Families in Need",
+      "category": "Hunger",
+      "category_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_color": "#0052FF",
+      "description": "Join us in fighting hunger by providing meals and support to families in need, ensuring no one goes to bed hungry.",
+      "price": 15
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/vxvTdnc/Rectangle-4287-2.png",
+        "title": "Hunger Relief for Families in Need",
+        "category": "Hunger",
+        "category_color": "#0052FF",
+        "card_bg_color": "rgba(0, 82, 255, 0.15)",
+        "text_button_color": "#0052FF",
+        "description": "Join us in fighting hunger by providing meals and support to families in need, ensuring no one goes to bed hungry.",
+        "price": 15
+      },
+      {
+        "id": 6,
+        "picture": "https://i.ibb.co/vzmm9yB/Rectangle-4284.png",
+        "title": "Medical Aid for Vulnerable Populations",
+        "category": "Health",
+        "category_color": "#79C23F",
+        "card_bg_color": "rgba(121, 194, 63, 0.15)",
+        "text_button_color": "#79C23F",
+        "description": "Contribute to our campaign to provide essential medical supplies and healthcare services to vulnerable populations and save lives.",
+        "price": 20
+      },
+      {
+        "id": 7,
+        "picture": "https://i.ibb.co/g7PML9R/Rectangle-4287.png",
+        "title": "Clean Water for All",
+        "category": "Environment",
+        "category_color": "#FF444A",
+        "card_bg_color": "rgba(255, 68, 74, 0.15)",
+        "text_button_color": "#FF444A",
+        "description": "Help us in providing access to clean and safe drinking water to communities in need, promoting a healthier environment.",
+        "price": 30
+      },
+      {
+        "id": 8,
+        "picture": "https://i.ibb.co/zfVgzvP/Rectangle-4287-1.png",
+        "title": "Education for Underprivileged Children",
+        "category": "Education",
+        "category_color": "#0052FF",
+        "card_bg_color": "rgba(0, 82, 255, 0.15)",
+        "text_button_color": "#0052FF",
+        "description": "Support our campaign to provide quality education to underprivileged children and give them a chance for a brighter future.",
+        "price": 25
+      },
+      {
+        "id": 9,
+        "picture": "https://i.ibb.co/g7PML9R/Rectangle-4287.png",
+        "title": "Clean Water for All",
+        "category": "Environment",
+        "category_color": "#FF444A",
+        "card_bg_color": "rgba(255, 68, 74, 0.15)",
+        "text_button_color": "#FF444A",
+        "description": "Help us in providing access to clean and safe drinking water to communities in need, promoting a healthier environment.",
+        "price": 30
+      },
+      {
+        "id": 10,
+        "picture": "https://i.ibb.co/zfVgzvP/Rectangle-4287-1.png",
+        "title": "Education for Underprivileged Children",
+        "category": "Education",
+        "category_color": "#0052FF",
+        "card_bg_color": "rgba(0, 82, 255, 0.15)",
+        "text_button_color": "#0052FF",
+        "description": "Support our campaign to provide quality education to underprivileged children and give them a chance for a brighter future.",
+        "price": 25
+      },
+      {
+        "id": 11,
+        "picture": "https://i.ibb.co/vzmm9yB/Rectangle-4284.png",
+        "title": "Medical Aid for Vulnerable Populations",
+        "category": "Health",
+        "category_color": "#79C23F",
+        "card_bg_color": "rgba(121, 194, 63, 0.15)",
+        "text_button_color": "#79C23F",
+        "description": "Contribute to our campaign to provide essential medical supplies and healthcare services to vulnerable populations and save lives.",
+        "price": 20
+      },
+      {
+        "id": 12,
+        "picture": "https://i.ibb.co/vxvTdnc/Rectangle-4287-2.png",
+        "title": "Hunger Relief for Families in Need",
+        "category": "Hunger",
+        "category_color": "#0052FF",
+        "card_bg_color": "rgba(0, 82, 255, 0.15)",
+        "text_button_color": "#0052FF",
+        "description": "Join us in fighting hunger by providing meals and support to families in need, ensuring no one goes to bed hungry.",
+        "price": 15
+      }
+ 
+  ]
+  
